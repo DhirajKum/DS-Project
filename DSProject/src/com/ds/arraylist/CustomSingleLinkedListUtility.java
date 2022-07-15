@@ -1,7 +1,6 @@
 package com.ds.arraylist;
 
 public class CustomSingleLinkedListUtility {
-
 	
 	Node head;
 	Node tail;
