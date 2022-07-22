@@ -1,6 +1,6 @@
 package com.ds.arraylist;
 
-public class CustomSingleLinkedListUtility {
+public class CustomDoublyLinkedList {
 	
 	Node head;
 	Node tail;
@@ -108,7 +108,7 @@ public class CustomSingleLinkedListUtility {
 	
 	
 	public static void main(String[] arg) {
-		CustomSingleLinkedListUtility linkedList = new CustomSingleLinkedListUtility();
+		CustomDoublyLinkedList linkedList = new CustomDoublyLinkedList();
 		linkedList.add(15);
 		linkedList.add(20);
 		linkedList.add(25);
